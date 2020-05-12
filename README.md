@@ -7,8 +7,6 @@ Primeiramente foi realizada a estruturação de um site-portfólio para o aluno 
 
 Esses arquivos foram exportados para o Github através do Github pages, realizando o primeiro commit do site.
 
-Link: https://aneliseestevam.github.io/imersaocss/
-
 Alguns materiais foram passados para estudo: 
 
 <a href="https://www.alura.com.br/artigos/codepen-o-que-e-e-como-usar">Como funciona o Codepen</a>
@@ -26,6 +24,8 @@ Alguns materiais foram passados para estudo:
 Paulo:
 
 1. Publicar o site pessoal no github pages. <b>Feito!</b>
+    <p>Link: https://aneliseestevam.github.io/imersaocss/</p>
+
 2. Como aplicar filtros na propriedade background do CSS? Por exemplo, para deixar a imagem “borrada”?
 
 Vanessa:
