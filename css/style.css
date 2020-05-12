@@ -1,7 +1,7 @@
 body {
-    background-image: url('http://www.vanessametonini.com.br/imersaocss/a1/img/fundo.jpg');
-    background-size: auto 100vh; 
-    font-family: Arial;
+    background-color: steelblue;
+    background-size: auto 100vh;
+    font-family: 'PT Sans', sans-serif;
     height: 100vh;
   }
   
@@ -19,18 +19,15 @@ body {
   }
   
   a {
-    color: teal;
+    color: steelblue;
     text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
   }
   
   .site-subtitle,
   .site-title {
     color: whitesmoke;
     text-align: center;
+    line-height: 1;
   }
   
   .site-subtitle {
