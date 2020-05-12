@@ -1,12 +1,13 @@
 # Imersão.CSS
-Site criado durante a Imersão.CSS utilizando HTML e CSS
-Com: Vanessa Tonini; Juliana Amoasei; Paulo Silveira.
+Site criado durante a Imersão.CSS utilizando HTML e CSS com: Vanessa Tonini; Juliana Amoasei; Paulo Silveira.
 
 <h1>Aula 01:</h1>
 
 Primeiramente foi realizada a estruturação de um site-portfólio para o aluno utilizando Codepen como ferramenta de testes para visualização do que estava sendo criado e como o CSS é utilizado para modelar a parte visual de um site. Em seguida, esse código foi transferido para o Visual Studio Code para que pudessemos continuar por lá o desenvolvimento, gerando assim um arquivo .html e um arquivo .css.
 
-<p>Esses arquivos foram exportados para o Github através do Github pages, realizando o primeiro commit do site.
+Esses arquivos foram exportados para o Github através do Github pages, realizando o primeiro commit do site.
+
+Link: https://aneliseestevam.github.io/imersaocss/
 
 Alguns materiais foram passados para estudo: 
 
