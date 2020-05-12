@@ -24,7 +24,7 @@ Alguns materiais foram passados para estudo:
 
 Paulo:
 
-1. Publicar o site pessoal no github pages.
+1. Publicar o site pessoal no github pages. <b>Feito!</b>
 2. Como aplicar filtros na propriedade background do CSS? Por exemplo, para deixar a imagem “borrada”?
 
 Vanessa:
@@ -33,6 +33,4 @@ Vanessa:
 
 Juliana:
 
-4. Entender os seletores é tão importante que tem até um joguinho pra ajudar na missão. Faça até onde conseguir dos 32 níveis! https://flukeout.github.io/
-
-<h2>Desafios feitos até o momento: 2/4</h2>
+4. Entender os seletores é tão importante que tem até um joguinho pra ajudar na missão. Faça até onde conseguir dos 32 níveis! https://flukeout.github.io/ <b>Feito!</b>
