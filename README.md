@@ -26,12 +26,36 @@ Paulo:
 1. Publicar o site pessoal no github pages. <b>Feito!</b>
     <p>Link: https://aneliseestevam.github.io/imersaocss/</p>
 
-2. Como aplicar filtros na propriedade background do CSS? Por exemplo, para deixar a imagem “borrada”?
+2. Como aplicar filtros na propriedade background do CSS? Por exemplo, para deixar a imagem “borrada”? <b>Feito!</b>
 
 Vanessa:
 
-3. Assistir dois videos extras sobre conteúdos super importantes: um sobre <a href="https://www.youtube.com/watch?v=pZrAG27KZSg&feature=youtu.be">box-model</a> e outro sobre <a href="https://www.youtube.com/watch?v=Q33ojlocKc0&feature=youtu.be">box-sizing</a>.
+3. Assistir dois videos extras sobre conteúdos super importantes: um sobre <a href="https://www.youtube.com/watch?v=pZrAG27KZSg&feature=youtu.be">box-model</a> e outro sobre <a href="https://www.youtube.com/watch?v=Q33ojlocKc0&feature=youtu.be">box-sizing</a>. <b>Feito!</b>
 
 Juliana:
 
 4. Entender os seletores é tão importante que tem até um joguinho pra ajudar na missão. Faça até onde conseguir dos 32 níveis! https://flukeout.github.io/ <b>Feito!</b>
+
+<h1>Aula 02:</h1>
+
+Continuando o desenvolvimento do nosso site pessoal, foi apresentado elementos para ajudar na responsividade da página como por padrão a tag meta de "viewport", assim como outros elementos inseridos diretamente no CSS como a tag @media, alterando algumas configurações da nossa página no caso dela apresentar certas características diferentes da principal.
+
+No exemplo utilizado, colocamos a tag @media no arquivo CSS para aumentar a font-size dos nossos elementos de titulo e sub-titulo no caso do tamanho de tela aumentar para um determinado valor, fazendo com que o titulo e o sub-titulo aumentassem gradativamente conforme a largura horizontal da página fosse aumentando.
+
+Foi demonstrado também como utilizar a ferramenta Flexbox para realizar o posicionamento de elementos dentro da nossa página. O título e o sub-título foram posicionados de forma central, facilitando a visualização do layout de forma mais "bonita". Além de inserirmos elementos para compor o porfólio do nosso site pessoal.
+
+Alguns materiais foram passados para estudo:
+
+<a href="https://www.youtube.com/watch?v=vhqTiQdUHfY">Github sem linhas de comando</a>
+
+<a href="https://www.alura.com.br/artigos/guia-de-unidades-no-css">Guia de unidades no CSS</a>
+
+<a href="https://www.alura.com.br/artigos/css-guia-do-flexbox">CSS Flexbox: Um guia visual</a>
+
+<a href="https://css-tricks.com/">CSS Tricks</a>
+
+<h2>Desafios:</h2>
+
+Juliana:
+
+5. Nós amamos joguinhos e um dos mais legais é o <a href="https://flexboxfroggy.com/#pt-br">Flexbox Froggy</a>! Use as ferramentas do Flexbox para juntar os sapos com as vitórias-régias e aproveite pra treinar e descobrir tudo que o Flexbox pode fazer pelos nossos leiautes. Tem instruções em português e dicas sobre qual propriedade usar em cada nível ;) <b>Feito!</b>
