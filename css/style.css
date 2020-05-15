@@ -10,7 +10,7 @@ body {
   background-image: url(../img/background.jpg);
   background-size: 100vw 100vh;
   /*background-size: auto 100vh;*/
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Baloo 2', cursive;
   font-size: 12px;
   height: 100vh;
 }
@@ -37,9 +37,11 @@ header {
 
 .menu {
   background-color: palevioletred;
+  border-radius: 20px;
   position: fixed;
   top: 0;
-  width: 100vw;
+  width: 70vw;
+  font-size: 16px;
 }
   
 .menu ul {
@@ -63,18 +65,66 @@ a {
   
 .site-title {
   color: whitesmoke;
+  font-family: 'Balsamiq Sans', cursive;
   font-size: 4em;
+  font-weight: 700;
   text-align: center;
   text-shadow: 5px 5px 5px black;
 }
 
 .site-subtitle {
   color: palevioletred;
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: 400;
   text-align: center;
   text-shadow: 5px 5px 5px black;
 }
 
+.portfolio {
+  margin: 2em;
+  height:  100vh;
+}
+
+.portfolio h2 {
+  color: whitesmoke;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 1.2em;
+}
+
+.portfolio .grid {
+  display: grid;
+  gap: 2em;
+}
+
+@media (min-width: 560px) {
+  .portfolio .grid {
+    grid-template-columns: repeat(2, 260px);
+  }
+}
+
+@media (min-width: 880px) {
+  .portfolio .grid {
+    align-content: center;
+    grid-template-columns: repeat(2, 260px);
+    height: calc(100vh - 2em - 48px - 1.5em);
+    justify-content: center;
+  }
+}
+
+.portfolio figure {
+  text-align: center;
+}
+
 .img-portfolio {
+  border-radius: 10%;
   height: 180px;
-  width: 180px; 
+  object-fit: cover;
+  object-position: center;
+  width: 240px; 
+}
+
+figcaption {
+  color: whitesmoke;
 }
