@@ -40,7 +40,7 @@ Juliana:
 
 Continuando o desenvolvimento do nosso site pessoal, foi apresentado elementos para ajudar na responsividade da página como por padrão a tag meta de "viewport", assim como outros elementos inseridos diretamente no CSS como a tag @media, alterando algumas configurações da nossa página no caso dela apresentar certas características diferentes da principal.
 
-No exemplo utilizado, colocamos a tag @media no arquivo CSS para aumentar a font-size dos nossos elementos de titulo e sub-titulo no caso do tamanho de tela aumentar para um determinado valor, fazendo com que o titulo e o sub-titulo aumentassem gradativamente conforme a largura horizontal da página fosse aumentando.
+No exemplo utilizado, colocamos a tag @media no arquivo CSS para aumentar a font-size dos nossos elementos de titulo e sub-titulo no caso do tamanho de tela aumentar para um determinado valor, fazendo com que o titulo e o sub-titulo aumentassem gradativamente de forma responsiva.
 
 Foi demonstrado também como utilizar a ferramenta Flexbox para realizar o posicionamento de elementos dentro da nossa página. O título e o sub-título foram posicionados de forma central, facilitando a visualização do layout de forma mais "bonita". Além de inserirmos elementos para compor o porfólio do nosso site pessoal.
 
@@ -59,3 +59,23 @@ Alguns materiais foram passados para estudo:
 Juliana:
 
 5. Nós amamos joguinhos e um dos mais legais é o <a href="https://flexboxfroggy.com/#pt-br">Flexbox Froggy</a>! Use as ferramentas do Flexbox para juntar os sapos com as vitórias-régias e aproveite pra treinar e descobrir tudo que o Flexbox pode fazer pelos nossos leiautes. Tem instruções em português e dicas sobre qual propriedade usar em cada nível ;) <b>Feito!</b>
+
+<h1>Aula 03:</h1>
+
+Nesta aula o foco foi o posicionamento dos elementos em colunas e linhas através da utilização do GRID.
+
+Pode-se melhorar a parte de portfólio e arrumar espaçamentos entre eles assim como sua posição na página.
+
+Alguns materiais foram passados para o estudo:
+
+O <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid">CSS Grid</a> tem várias propriedades e o CSS Tricks tem um <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">guia</a> com exemplos de como usar (em inglês).
+
+<h2>Desafios:</h2>
+
+Paulo:
+
+6. A gente já viu que tem bastante gente fazendo dessa forma, mas quem ainda não fez agora é a hora de colocar a sua cara no seu site: seus projetos, suas seções, suas imagens!
+
+Juliana:
+
+7. Durante essa aula vimos uma outra ferramenta do CSS para posicionar elementos, o Grid. Temos mais um <a href="https://cssgridgarden.com/">joguinho</a> (infelizmente é o último) para praticar o CSS Grid enquanto cuida de uma hortinha e rega as plantas, bem relaxante! Você pode usar as ferramentas do Grid para montar um leiaute de página web como este. Não esqueça de compartilhar com a gente!
